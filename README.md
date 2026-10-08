@@ -67,3 +67,8 @@ The main objectives are to:
 ## Author
 
 Silvia Tchivinda
+
+## Setup Instructions:
+
+1. Clone the Project:
+git clone https://github.com/SilviaTchivinda-lgtm/Urban_Nest/commit/d703c40b27c831fcde96bf7e5e0e1130c88f687e
